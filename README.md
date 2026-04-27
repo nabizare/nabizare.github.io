@@ -12,7 +12,7 @@ These are the items I would probably write here:
 
 2. explaining quantum algorithms and their codes:
    
-    which my main source for it is [quantum-algorithm-zoo website.](https://quantumalgorithmzoo.org/)
+    My main source for it is [quantum-algorithm-zoo website.](https://quantumalgorithmzoo.org/)
 
 3. Mathematics and physics concepts I learn and I need in my research:
 
