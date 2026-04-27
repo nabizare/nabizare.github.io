@@ -1,6 +1,6 @@
 # This page is under construction!
 
-Hello Nabi in the future!
+Hello!
 
 I'm trying to learn how to work with **markdown**!
 
