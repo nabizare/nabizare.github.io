@@ -15,12 +15,11 @@ These are the items I would probably write here:
    
     My main source for it is [quantum-algorithm-zoo website.](https://quantumalgorithmzoo.org/)
 
-3. Mathematics and physics concepts I learn and I need in my research:
+3. I started watching some online courses on these topics:
 
-    These are in my list to start:
-
+   + Quantum Thermodynamics
    + Quantum Error Correction
    + Group Theory 
-   + {Convex} Optimization
+ 
    
 
